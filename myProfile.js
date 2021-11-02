@@ -33,7 +33,6 @@ function namePara() {
 namePara();
 
 //Function for the career paragraph
-
 let career = "Web Developer";
 function careerPara() {
     profCareer.innerHTML = career;
